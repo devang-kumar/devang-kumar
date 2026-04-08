@@ -45,16 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangkumar\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devangkumar\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devangkumar\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🧠 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
@@ -76,12 +66,6 @@
 * 🏅 Consistent problem solving
 * 🎯 Preparing for internships
 * 🚀 Building impactful projects
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
